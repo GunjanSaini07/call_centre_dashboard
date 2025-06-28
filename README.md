@@ -71,6 +71,6 @@ To create a self-service, easy-to-read dashboard in Excel that:
   - `Customer Sender Report`: Printable call summary format
   - `Assets`: Mapping of representative IDs (future use)
  
-## Screenshot
+## Screenshot: https://github.com/GunjanSaini07/call_centre_dashboard/blob/main/Snapshot%20of%20dashboard.png
 
 
